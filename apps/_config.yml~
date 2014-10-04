@@ -1,0 +1,11 @@
+# Site settings
+title: App Permissions
+email: none
+description: App Permissions 
+baseurl: ""
+url: "swtchrly08.github.io/AppPermissions" 
+twitter_username: none
+github_username:  swtchrly08
+
+# Build settings
+markdown: kramdown
